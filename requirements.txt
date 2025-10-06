@@ -1,0 +1,8 @@
+openai
+qdrant-client
+PyPDF2
+tiktoken
+python-dotenv
+pdf2image
+pytesseract
+Pillow
